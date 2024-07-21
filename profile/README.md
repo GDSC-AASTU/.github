@@ -1,7 +1,7 @@
 
-# Welcome to Developer Student Clubs (DSC) AASTU
+# Welcome to Developer Student Clubs (GDSC) AASTU
 
-Developer Student Clubs (DSC) are university-based community groups for students interested in Google developer technologies and various other technological fields. Open to all undergraduate and graduate students eager to develop their skills, DSCs provide a platform for growth in a peer-to-peer learning environment. Members have the opportunity to engage in projects that offer solutions for local businesses and their communities.
+Google Developer Student Clubs (DSC) are university-based community groups for students interested in Google developer technologies and various other technological fields. Open to all undergraduate and graduate students eager to develop their skills, DSCs provide a platform for growth in a peer-to-peer learning environment. Members have the opportunity to engage in projects that offer solutions for local businesses and their communities.
 
 ## Open Source Initiatives 🌍
 
